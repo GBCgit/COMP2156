@@ -4,9 +4,10 @@
   "description": "comp2156 lab exercise",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Warning: No tests created yet.\""
+    "test": "echo \"Warning: No tests created yet.\"",
+    "ci": "echo \"No ci configured.\""
   },
   "keywords": [],
-  "author": "",
+  "author": "John Isser Fernandez",
   "license": "ISC"
 }
