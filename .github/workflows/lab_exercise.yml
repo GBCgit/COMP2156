@@ -3,8 +3,6 @@ run-name: ${{ github.actor }} is a testing out Github Actions
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but onky for the "main" branch
-  push:
-    branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
 jobs: 
