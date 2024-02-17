@@ -1,5 +1,5 @@
 #### Developer Operations
-Github actions and node project example
+Github actions and node project examples
 
 ## References
 -- https://nodejs.org/en/download
